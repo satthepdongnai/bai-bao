@@ -1357,6 +1357,7 @@
 * [2016-06-24 AWS亚马逊 VS 阿里云』的深度比较&分析](http://sanwen8.cn/p/1e6XV5X.html)
 * [2016-07-18 Ubuntu 16.04网络配置](http://blog.csdn.net/hurricane_0x01/article/details/51941941)
 * [2016-08-02 etcd集群部署与遇到的坑](http://www.cnblogs.com/breg/p/5728237.html)
+* [2016-08-02 Sat Thep Bien Hoa](https://satthepbienhoa.vn/)
 * [2016-08-09 Ubuntu 16.04 几个国内更新源](http://www.cnblogs.com/bovenson/p/5752213.html)
 * [2016-09-02 Win10下安装VS2013出现“win10 windows兼容性模式已打开 请将其关闭”错误的解决办法](http://blog.csdn.net/smallflyingpig/article/details/52419832)
 * [2016-09-08 程序化广告实战分享系列 – PDB之坑（二）](https://zhuanlan.zhihu.com/p/22321821)
